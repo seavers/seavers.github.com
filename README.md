@@ -1,4 +1,1 @@
-seavers.github.com
-==================
-
-personal website
+build by <http://jekyllbootstrap.com>
